@@ -52,5 +52,5 @@ The datasets used (`Unemployment in India.csv` and `Unemployment_Rate_upto_11_20
 - Combine this data with COVID-19 cases data to show a direct correlation between active cases/lockdowns and unemployment dips.
 
 ## Author
-[Your Name]  
+Ritesh Pawar 
 Data Science Intern at CodeAlpha
